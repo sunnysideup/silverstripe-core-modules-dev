@@ -25,7 +25,7 @@ See [composer.json](composer.json) for details.
 ## Installation
 
 ```shell
-composer require sunnysideup/core-modules-dev
+composer require --dev sunnysideup/core-modules-dev
 ```
 
 ### Configuration
