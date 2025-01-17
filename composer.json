@@ -1,7 +1,7 @@
 {
     "name": "sunnysideup/core-modules-dev",
     "description": "Nice modules to include on your dev install.",
-    "type": "silverstripe-vendormodule",
+    "type": "silverstripe-recipe",
     "keywords": [
         "dev",
         "developer tools"
