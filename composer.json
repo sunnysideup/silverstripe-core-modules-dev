@@ -27,7 +27,7 @@
             "Sunnysideup\\CoreModulesDev\\": "src/"
         }
     },
-    "suggests" {
+    "suggests": {
         "silverstripe/standards": "Great, but phpstan/phpstan causes issues!"
     },
     "minimum-stability": "dev",
