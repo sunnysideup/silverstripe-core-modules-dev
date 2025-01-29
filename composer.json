@@ -16,7 +16,6 @@
         "sunnysideup/database-share-clean-up": "dev-master",
         "sunnysideup/dataintegritytests": "dev-master",
         "sunnysideup/delete-members": "dev-master",
-        "sunnysideup/migration-task": "dev-master",
         "sunnysideup/vardump": "dev-master",
         "sunnysideup/prettyphoto": "dev-master as 2.0.1",
         "sunnysideup/templateoverview": "dev-master",
