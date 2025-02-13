@@ -18,7 +18,7 @@
         "sunnysideup/delete-members": "dev-master",
         "sunnysideup/vardump": "dev-master",
         "sunnysideup/templateoverview": "dev-master",
-        "sunnysideup/typography": "dev-master"
+        "sunnysideup/typography": "dev-master",
         "oddnoc/silverstripe-artefactcleaner": "*",
         "sunnysideup/cleanup-tables": "dev-master"
     },
