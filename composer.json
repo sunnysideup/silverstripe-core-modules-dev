@@ -21,7 +21,8 @@
         "sunnysideup/typography": "dev-master",
         "oddnoc/silverstripe-artefactcleaner": "*",
         "sunnysideup/cleanup-tables": "dev-master",
-        "sunnysideup/gitignore": "dev-main"
+        "sunnysideup/gitignore": "dev-main",
+        "roave/security-advisories": "dev-latest"
     },
     "autoload": {
         "psr-4": {
