@@ -13,7 +13,6 @@
         "phpstan/extension-installer": "^1.3",
         "sunnysideup/sswebpack_engine_only": "dev-master",
         "silverleague/ideannotator": "*",
-        "sunnysideup/database-share-clean-up": "dev-master",
         "sunnysideup/dataintegritytests": "dev-master",
         "sunnysideup/delete-members": "dev-master",
         "sunnysideup/vardump": "dev-master",
@@ -41,5 +40,8 @@
             "email": "modules@sunnysideup.co.nz",
             "role": "lead developer"
         }
+    ],
+    "bin": [
+        "compress-and-anonymise-database"
     ]
 }
