@@ -42,6 +42,6 @@
         }
     ],
     "bin": [
-        "compress-and-anonymise-database"
+        "bin/compress-and-anonymise-database"
     ]
 }
