@@ -22,7 +22,7 @@
         "oddnoc/silverstripe-artefactcleaner": "*",
         "sunnysideup/cleanup-tables": "dev-master",
         "sunnysideup/gitignore": "dev-main",
-        "roave/security-advisories": "dev-latest"
+        "roave/security-advisories": "*"
     },
     "autoload": {
         "psr-4": {
