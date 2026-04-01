@@ -13,15 +13,13 @@
         "phpstan/extension-installer": "^1.3",
         "sunnysideup/sswebpack_engine_only": "dev-master",
         "silverleague/ideannotator": "*",
-        "sunnysideup/dataintegritytests": "dev-master",
         "sunnysideup/delete-members": "dev-master",
         "sunnysideup/vardump": "dev-master",
-        "sunnysideup/database-share-clean-up": "dev-master",
         "sunnysideup/templateoverview": "dev-master",
         "sunnysideup/typography": "dev-master",
-        "oddnoc/silverstripe-artefactcleaner": "*",
         "sunnysideup/cleanup-tables": "dev-master",
         "sunnysideup/gitignore": "dev-main",
+        "sunnysideup/spring-clean-recipe": "dev-main",
         "roave/security-advisories": "dev-latest"
     },
     "autoload": {
