@@ -21,7 +21,7 @@
         "sunnysideup/cleanup-tables": "5.x-dev",
         "sunnysideup/gitignore": "5.x-dev",
         "sunnysideup/spring-clean-recipe": "5.x-dev",
-        "roave/security-advisories": "*"
+        "roave/security-advisories": "dev-latest"
     },
     "autoload": {
         "psr-4": {
