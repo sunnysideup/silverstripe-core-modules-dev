@@ -27,7 +27,7 @@
     },
     "suggests": {
         "silverstripe/standards": "Great, but phpstan/phpstan causes issues!",
-        "phpunit/phpunit": "^11.3",
+        "phpunit/phpunit": "^11.3"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
