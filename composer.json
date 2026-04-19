@@ -9,8 +9,6 @@
     "license": "BSD-3-Clause",
     "require": {
         "silverstripe/framework": "^5",
-        "squizlabs/php_codesniffer": "^3.7",
-        "phpstan/extension-installer": "^1.3",
         "silverleague/ideannotator": "*",
         "sunnysideup/sswebpack_engine_only": "5.x-dev",
         "sunnysideup/delete-members": "5.x-dev",
