@@ -20,7 +20,7 @@
         "sunnysideup/cleanup-tables": "dev-master",
         "sunnysideup/gitignore": "dev-main",
         "sunnysideup/spring-clean-recipe": "dev-main",
-        "roave/security-advisories": "dev-latest"
+        "roave/security-advisories": "*"
     },
     "autoload": {
         "psr-4": {
