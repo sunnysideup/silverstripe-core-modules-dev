@@ -9,6 +9,7 @@
     "license": "BSD-3-Clause",
     "require": {
         "phpunit/phpunit": "^9.6",
+        "silverstripe/framework": "^6",
         "sunnysideup/sswebpack_engine_only": "dev-main",
         "silverleague/ideannotator": "^4",
         "sunnysideup/delete-members": "dev-main",
