@@ -19,7 +19,8 @@
         "sunnysideup/gitignore": "dev-main",
         "sunnysideup/spring-clean-recipe": "dev-main",
         "sunnysideup/migrate-from-fqcn-to-short-tablename": "dev-main",
-        "roave/security-advisories": "*"
+        "roave/security-advisories": "*",
+        "ergebnis/composer-normalize": "dev-main"
     },
     "autoload": {
         "psr-4": {
