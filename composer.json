@@ -19,7 +19,7 @@
         "sunnysideup/gitignore": "dev-main",
         "sunnysideup/spring-clean-recipe": "dev-main",
         "sunnysideup/migrate-from-fqcn-to-short-tablename": "dev-main",
-        "roave/security-advisories": "*",
+        "sunnysideup/security-advisories": "dev-latest",
         "ergebnis/composer-normalize": "dev-main"
     },
     "autoload": {
