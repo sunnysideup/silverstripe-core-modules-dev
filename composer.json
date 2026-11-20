@@ -16,6 +16,7 @@
         "sunnysideup/templateoverview": "dev-main",
         "sunnysideup/typography": "dev-main",
         "sunnysideup/cleanup-tables": "dev-main",
+        "sunnysideup/classname-fixer": "dev-main",
         "sunnysideup/gitignore": "dev-main",
         "sunnysideup/spring-clean-recipe": "dev-main",
         "sunnysideup/migrate-from-fqcn-to-short-tablename": "dev-main",
